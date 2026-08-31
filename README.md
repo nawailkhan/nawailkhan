@@ -11,10 +11,7 @@
 - BSCS student at **Institute of Business Administration, Karachi**
 - Building things at the intersection of **computer vision, embedded systems, and design**
 - Local Lead, NASA Space Apps Challenge · Creatives Head, IBA Animation & Pop-Culture Society
-- Exploring: agentic AI
-- game dev
-- applied cybersec
-- robotics/embedded logic
+- Exploring: Agentic AI, Game Dev, Applied cybersec, Robotics/embedded logic
 
 ---
 
