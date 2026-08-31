@@ -18,7 +18,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawailkhan&layout=compact&theme=default&hide_border=true&hide_title=true&bg_color=0a0e17&title_color=6b7688&text_color=e8ecf4&langs_count=8" />
+  <img src="./github-metrics.svg" alt="Top Languages" />
 </p>
 ---
 
