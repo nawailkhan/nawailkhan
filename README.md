@@ -28,12 +28,12 @@
 <table>
   <tr>
     <td width="50%">
-      <a href=["https://github.com/nawailkhan/Mars-Rover-Path-Planner"](https://github.com/nawailkhan/Mars-Rover-Path-Planner)>
+      <a href="https://github.com/nawailkhan/Mars-Rover-Path-Planner">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawailkhan&repo=Mars-Rover-Path-Planner&theme=default" />
       </a>
     </td>
     <td width="50%">
-      <a href=["https://github.com/nawailkhan/FaceRecognition"](https://github.com/nawailkhan/FaceRecognition)>
+      <a href="https://github.com/nawailkhan/FaceRecognition">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawailkhan&repo=FaceRecognition&theme=default" />
       </a>
     </td>
