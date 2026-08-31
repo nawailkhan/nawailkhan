@@ -10,9 +10,8 @@
 
 - 🎓 BSCS student at **Institute of Business Administration, Karachi**
 - 🔭 Building things at the intersection of **computer vision, embedded systems, and design**
-- 🎨 4+ years freelance graphic design — brand identity, print, social media
 - 🚀 Local Lead, NASA Space Apps Challenge · Creatives Head, IBA Animation & Pop-Culture Society
-- 🌱 Currently exploring: real-time CV pipelines, applied cybersecurity, robotics/embedded logic
+- 🌱 Currently exploring: agentic AI, game developement, applied cybersecurity, robotics/embedded logic
 
 ---
 
