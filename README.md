@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nawailkhan/nawailkhan/main/assets/orbit-banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/nawailkhan/nawailkhan/main/orbit-banner.svg" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=CS+Student+%40+IBA+Karachi;Computer+Vision+%2B+Embedded+Systems;Also+a+Graphic+Designer+(4%2B+years);Currently+exploring%3A+CV+%7C+Cybersecurity+%7C+Robotics" alt="Typing SVG" />
