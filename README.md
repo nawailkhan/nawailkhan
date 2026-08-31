@@ -25,32 +25,10 @@
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/nawailkhan/Mars-Rover-Path-Planner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawailkhan&repo=Mars-Rover-Path-Planner&theme=default" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/nawailkhan/FaceRecognition">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawailkhan&repo=FaceRecognition&theme=default" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/nawailkhan/Intrusion-Detection-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawailkhan&repo=Intrusion-Detection-System&theme=default" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/nawailkhan/NASA-Planetary-Budget-Analysis-with-SQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawailkhan&repo=NASA-Planetary-Budget-Analysis-with-SQL&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 🔴 [Mars Rover Path Planner](https://github.com/nawailkhan/Mars-Rover-Path-Planner)
+- 🔴 [Face Recognition](https://github.com/nawailkhan/FaceRecognition)
+- 🔴 [Intrusion Detection System](https://github.com/nawailkhan/Intrusion-Detection-System)
+- 🔴 [NASA Planetary Budget Analysis](https://github.com/nawailkhan/NASA-Planetary-Budget-Analysis-with-SQL)
 
 ---
 
