@@ -1,0 +1,99 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5b942" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#f5b942" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .label { fill: #6b7688; font-size: 12px; letter-spacing: 1px; }
+      .value { fill: #e8ecf4; font-size: 15px; font-weight: 600; }
+      .tiny { fill: #4a5468; font-size: 10px; letter-spacing: 1px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" rx="10" fill="#0a0e17"/>
+  <rect x="1" y="1" width="1198" height="398" rx="9" fill="none" stroke="#1b2333" stroke-width="1"/>
+
+  <!-- corner brackets -->
+  <path d="M28,50 L28,30 L48,30" fill="none" stroke="#2a3347" stroke-width="1.5"/>
+  <path d="M1172,50 L1172,30 L1152,30" fill="none" stroke="#2a3347" stroke-width="1.5"/>
+  <path d="M28,350 L28,370 L48,370" fill="none" stroke="#2a3347" stroke-width="1.5"/>
+  <path d="M1172,350 L1172,370 L1152,370" fill="none" stroke="#2a3347" stroke-width="1.5"/>
+
+  <!-- header -->
+  <text x="32" y="42" class="mono value" font-size="14">nawailkhan <tspan fill="#4a5468">/</tspan> README.md</text>
+  <text x="1168" y="38" text-anchor="end" class="mono label">2026.243</text>
+  <text x="1168" y="54" text-anchor="end" class="mono label">LOCK 03/03</text>
+
+  <!-- orbit system -->
+  <g>
+    <!-- faint reference circle -->
+    <circle cx="600" cy="205" r="46" fill="none" stroke="#232c3f" stroke-width="1" stroke-dasharray="2 4"/>
+    <circle cx="600" cy="205" r="70" fill="url(#sunGlow)"/>
+
+    <!-- Orbit: Cybersecurity (pink) -->
+    <g transform="rotate(22 600 205)">
+      <ellipse cx="600" cy="205" rx="235" ry="95" fill="none" stroke="#ff5d73" stroke-width="1" opacity="0.5"/>
+      <path id="orbitCyber" d="M365,205 A235,95 0 1 0 835,205 A235,95 0 1 0 365,205 Z" fill="none" stroke="none"/>
+      <circle r="5.5" fill="#ff5d73">
+        <animateMotion dur="22s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#orbitCyber"/>
+        </animateMotion>
+      </circle>
+    </g>
+
+    <!-- Orbit: Computer Vision (blue) -->
+    <g transform="rotate(-18 600 205)">
+      <ellipse cx="600" cy="205" rx="255" ry="72" fill="none" stroke="#5b9bff" stroke-width="1" opacity="0.5"/>
+      <path id="orbitCV" d="M345,205 A255,72 0 1 0 855,205 A255,72 0 1 0 345,205 Z" fill="none" stroke="none"/>
+      <circle r="5.5" fill="#5b9bff">
+        <animateMotion dur="16s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#orbitCV"/>
+        </animateMotion>
+      </circle>
+    </g>
+
+    <!-- Orbit: Embedded Systems (green) -->
+    <g transform="rotate(64 600 205)">
+      <ellipse cx="600" cy="205" rx="185" ry="55" fill="none" stroke="#52d68a" stroke-width="1" opacity="0.5"/>
+      <path id="orbitEmbed" d="M415,205 A185,55 0 1 0 785,205 A185,55 0 1 0 415,205 Z" fill="none" stroke="none"/>
+      <circle r="5.5" fill="#52d68a">
+        <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#orbitEmbed"/>
+        </animateMotion>
+      </circle>
+    </g>
+
+    <!-- sun / core -->
+    <circle cx="600" cy="205" r="13" fill="#f5b942"/>
+    <text x="600" y="238" text-anchor="middle" class="mono tiny">DESIGN CORE</text>
+  </g>
+
+  <!-- left legend -->
+  <line x1="60" y1="120" x2="150" y2="120" stroke="#232c3f" stroke-width="1"/>
+  <text x="60" y="112" class="mono label">α CV-01</text>
+  <text x="60" y="134" class="mono value" font-size="13" fill="#5b9bff">COMPUTER VISION</text>
+
+  <line x1="60" y1="290" x2="150" y2="290" stroke="#232c3f" stroke-width="1"/>
+  <text x="60" y="282" class="mono label">Ø EMBED-03</text>
+  <text x="60" y="304" class="mono value" font-size="13" fill="#52d68a">EMBEDDED SYSTEMS</text>
+
+  <!-- right legend -->
+  <line x1="1140" y1="150" x2="1050" y2="150" stroke="#232c3f" stroke-width="1"/>
+  <text x="1140" y="142" text-anchor="end" class="mono label">Δ CYBER-02</text>
+  <text x="1140" y="164" text-anchor="end" class="mono value" font-size="13" fill="#ff5d73">CYBERSECURITY</text>
+
+  <line x1="1140" y1="280" x2="1050" y2="280" stroke="#232c3f" stroke-width="1"/>
+  <text x="1140" y="272" text-anchor="end" class="mono label">σ 4.021</text>
+  <text x="1140" y="294" text-anchor="end" class="mono value" font-size="13" fill="#e8ecf4">YRS DESIGN</text>
+
+  <!-- footer -->
+  <text x="32" y="378" class="mono tiny">IBA · KARACHI</text>
+  <text x="32" y="392" class="mono tiny">2024 — 2028</text>
+  <text x="1168" y="378" text-anchor="end" class="mono tiny">GH-NAWAILKHAN</text>
+  <text x="1168" y="392" text-anchor="end" class="mono tiny">REPOS · 08</text>
+
+  <!-- decorative baseline -->
+  <path d="M300,360 Q330,352 360,360 T420,360 T480,360 T540,360 T600,360 T660,360 T720,360 T780,360 T840,360 T900,360" fill="none" stroke="#232c3f" stroke-width="1" opacity="0.7"/>
+</svg>
